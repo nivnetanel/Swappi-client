@@ -1,4 +1,4 @@
-# [👋 live demo 👋]([https://swaappi.netlify.app/](https://swappi-ai.com/))
+# [👋 live demo 👋](https://swappi-ai.com/)
 
 # Tech Stack
 
